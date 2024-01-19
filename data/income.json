@@ -1,0 +1,43 @@
+[
+    {
+      "description": "Freelance project payment",
+      "amount": 500
+    },
+    {
+      "description": "Salary",
+      "amount": 3000
+    },
+    {
+      "description": "Investment dividends",
+      "amount": 200
+    },
+    {
+      "description": "Online course income",
+      "amount": 100
+    },
+    {
+      "description": "Consulting fee",
+      "amount": 400
+    },
+    {
+      "description": "Part-time job payment",
+      "amount": 600
+    },
+    {
+      "description": "Rental income",
+      "amount": 800
+    },
+    {
+      "description": "Interest from savings",
+      "amount": 50
+    },
+    {
+      "description": "Gift from family",
+      "amount": 150
+    },
+    {
+      "description": "Side project revenue",
+      "amount": 300
+    }
+  ]
+  

@@ -1,0 +1,53 @@
+[
+    {
+      "description": "Grocery shopping",
+      "amount": 50,
+      "category": "Grocery"
+    },
+    {
+      "description": "Electricity bill",
+      "amount": 80,
+      "category": "Bills"
+    },
+    {
+      "description": "New clothes",
+      "amount": 100,
+      "category": "Shopping"
+    },
+    {
+      "description": "Weekend getaway",
+      "amount": 200,
+      "category": "Travel"
+    },
+    {
+      "description": "Vegetables and fruits",
+      "amount": 30,
+      "category": "Grocery"
+    },
+    {
+      "description": "Internet bill",
+      "amount": 60,
+      "category": "Bills"
+    },
+    {
+      "description": "Tech gadgets",
+      "amount": 150,
+      "category": "Shopping"
+    },
+    {
+      "description": "Business trip",
+      "amount": 300,
+      "category": "Travel"
+    },
+    {
+      "description": "Snacks and beverages",
+      "amount": 20,
+      "category": "Grocery"
+    },
+    {
+      "description": "Water bill",
+      "amount": 40,
+      "category": "Bills"
+    }
+  ]
+  

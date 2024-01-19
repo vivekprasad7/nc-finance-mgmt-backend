@@ -1,0 +1,43 @@
+[
+    {
+      "description": "Emergency fund",
+      "amount": 1000
+    },
+    {
+      "description": "Vacation savings",
+      "amount": 500
+    },
+    {
+      "description": "Home renovation fund",
+      "amount": 1200
+    },
+    {
+      "description": "Education savings",
+      "amount": 800
+    },
+    {
+      "description": "Retirement account",
+      "amount": 2000
+    },
+    {
+      "description": "Car maintenance fund",
+      "amount": 300
+    },
+    {
+      "description": "Future investment",
+      "amount": 1500
+    },
+    {
+      "description": "Healthcare savings",
+      "amount": 600
+    },
+    {
+      "description": "Electronic gadgets fund",
+      "amount": 400
+    },
+    {
+      "description": "Special occasion savings",
+      "amount": 250
+    }
+  ]
+  
